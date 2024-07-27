@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/GitHub/landingpage"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html5up-massively",
+		"liveServer.settings.port": 5501
+	}
+}
